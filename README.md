@@ -1,7 +1,7 @@
 # MyNgrxProject
 
 
-![ngrx counters app](https://ibb.co/ryDCLDs)
+![ngrx counters app](https://i.ibb.co/Th9Vn9L/app.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
